@@ -1,5 +1,5 @@
 //Orrin Oliver
-//test for version
+//Test for version
 
 #include <iostream>
 
